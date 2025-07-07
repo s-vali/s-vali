@@ -20,3 +20,9 @@ Aspiring software engineer looking for new grad opportunities with experience in
 **Build & Dev Tools**: [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 **Databases & Platforms**: [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)  [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+
+## 📚 Relevant Coursework
+
+**Data Analysis & Machine Learning**: Machine Learning, Intelligent Systems, Artificial Intelligence, Data Analytics
+
+**Web development**: Object-Oriented Programming, Web Programming, Data Structures and Algorithms, Software Architecture and Design, Software Requirements and Deployment, Information Systems Security
