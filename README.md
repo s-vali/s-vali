@@ -1,5 +1,12 @@
 ## 👋 Hi, I'm Sofia Valiante
 
+Aspiring software engineer looking for new grad opportunities with experience in web application development, data analysis and machine learning. Eager to expand expertise in full-stack development through hands-on industry experience. Committed to delivering seamless integration and optimal performance across frontend and backend systems. 
+
+- **Languages**: Fluent English, fluent French.
+- **Hobbies**: UI/UX design, graphic design, prototyping in Figma, drawing, crafting and baking.
+- **Personal challenges**: Learning manual transmission.
+
+
 ## ⚒️ Technical Skills
 
 **Operating Systems**: [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)  [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
@@ -13,6 +20,3 @@
 **Build & Dev Tools**: [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 **Databases & Platforms**: [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)  [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-
-##  
-
