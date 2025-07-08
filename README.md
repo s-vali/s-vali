@@ -2,7 +2,7 @@
 
 Aspiring software engineer looking for new grad opportunities with experience in web application development, object-oriented programming, data analysis and machine learning. Eager to expand expertise and grow my software engineering career through hands-on industry experience. Committed to delivering seamless integration and optimal performance across multi-disciplinary systems. 
 
-- **Languages**: Fluent English, fluent French.
+- **Languages**: Native English, fluent French.
 - **Hobbies**: UI/UX design, graphic design, prototyping in Figma, drawing, crafting and baking.
 - **Personal challenges**: Learning manual transmission.
 
