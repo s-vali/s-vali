@@ -23,6 +23,6 @@ Aspiring software engineer looking for new grad opportunities with experience in
 
 ## 📚 Relevant Coursework
 
-**Data Science & Machine Learning**: Machine Learning, Intelligent Systems, Artificial Intelligence, Data Analytics
+**Data Science & Machine Learning**: Machine Learning, Intelligent Systems, Artificial Intelligence, Data Analytics, Data Systems for Software Engineers
 
 **Web development**: Object-Oriented Programming, Web Programming, Data Structures and Algorithms, Software Architecture and Design, Software Requirements and Deployment, Information Systems Security
